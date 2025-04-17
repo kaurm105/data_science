@@ -74,3 +74,8 @@ REQUIREMENTS
 
 TO INSTALL REQUIRED PACKAGES
 pip install pandas dask matplotlib seaborn scikit-learn numpy statsmodels
+
+DATASETS USED FOR BIG DATA PROGRAMMING PROJECT 
+1. Trips_by_Distance.csv 
+2. Trips_Full Data.csv
+
